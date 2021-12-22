@@ -1,0 +1,27 @@
+/* div{
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: x-large;
+
+} */
+
+
+.firtDiv {
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: x-large;
+
+} 
+
+.secondDiv{
+    color:darkcyan ;
+    font-weight: bold ;
+    font-size: x-large ;
+
+} 
+
+#uniqueid{
+
+    text-decoration: purple;
+
+}
