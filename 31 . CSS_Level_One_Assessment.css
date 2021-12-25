@@ -46,6 +46,7 @@ Use HEX for the color*/
 
 .exit p {
     background-color: lightsalmon;
+    
 
 }
 
@@ -57,7 +58,17 @@ There is a textarea element with the id=textblock, give it the following propert
 * A width of 800px and a height of 400px
  */
 
- 
+
+
+
+
+.blogtext {
+    border-style:solid;
+    border-width: 5px;
+    border-color:gray;
+    
+
+}
 
 
 
