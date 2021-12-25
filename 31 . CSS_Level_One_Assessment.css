@@ -44,6 +44,11 @@ h2 + form input  {
 Give a light yellow background to all <p> elements inside of a <div> element
 Use HEX for the color*/
 
+.exit p {
+    background-color: lightsalmon;
+
+}
+
 
 
 /*Task # 6
@@ -51,6 +56,12 @@ There is a textarea element with the id=textblock, give it the following propert
 * A 5px solid gray border
 * A width of 800px and a height of 400px
  */
+
+ 
+
+
+
+
 
 
 
