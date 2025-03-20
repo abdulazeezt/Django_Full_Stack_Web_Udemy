@@ -1,13 +1,10 @@
-#two{
-
-    font-family: 'Righteous', cursive;
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 
 
-} 
+/* This sample using a font from google. Also see the references in html document.*/
+body{
+font-family: 'Pacifico', cursive;
+font-style: italic;
+font-weight:bolder;
+font-size: 20px;
 
-h1{
-    font-family: 'ModuloRegular';
-    font-weight: normal;
-    font-style: normal; 
-}
+}    

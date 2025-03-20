@@ -1,0 +1,27 @@
+/* This is how comment works in CSS file */
+
+body{
+    /* background-color: tan; */
+    background: url(https://mobimg.b-cdn.net/v3/fetch/27/279d94c7e8d1236afa89409a3c17d047.jpeg?h=900&r=0.5);
+    background-repeat: no-repeat;
+
+}
+
+div{
+    background-color:aqua;
+    border-color: blue;
+    border-width: 10px;
+    border-style: dotted;
+}
+
+p{
+    color: yellow;
+
+}
+
+span{
+    background-color: red;
+
+
+
+}
