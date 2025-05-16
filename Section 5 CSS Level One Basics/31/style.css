@@ -1,0 +1,35 @@
+html{background-color:cadetblue;
+
+
+}
+
+body>h1{
+  border-width: 3px;
+  border-color: brown;
+  border-style:solid;
+
+}
+
+
+
+H2{
+  color: blueviolet;
+
+
+
+}
+
+
+
+.exit p{
+ background-color:chocolate;
+font-weight: bolder;
+
+}
+
+.exit{
+background-color:blue;
+
+
+
+}
