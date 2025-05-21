@@ -1,0 +1,32 @@
+body{
+  background-color:aquamarine;
+
+}
+
+
+
+
+.maindiv{
+
+   background-color:midnightblue;
+
+  text-align: center;
+  
+  margin-left : 200px;
+  margin-right: 200px;
+  
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: aliceblue;
+}
+
+
+.h1{
+
+  margin-bottom: 2px;
+  /* text-align: center; */
+
+
+
+}
